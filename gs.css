@@ -74,3 +74,23 @@
     color: black;
 
 }
+.NANK
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: red;
+}
+.KO
+{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: fuchsia;
+}
+.NANK:hover{
+    text-shadow: 3px 4px 3px #000;
+    border: 4px;
+
+}
+.KO:hover{
+    text-shadow: 3px 4px 3px #000;
+    border: 4px;
+
+}

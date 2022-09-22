@@ -37,5 +37,7 @@
 }
 .song
 {
+    font-family: 'Courier New', Courier, monospace;
     font-style: oblique;
+    color: black;
 }

@@ -1,0 +1,41 @@
+.speech
+{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+    color: black;
+    font-style:initial;
+}
+.direction
+{
+    background-color: aqua;
+    
+}
+.direction:hover
+{
+    color: blue;
+    background-color: darkorange;
+}
+.YUM
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: red;
+    
+}
+.PEEP
+{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: fuchsia;
+}
+.PITTI
+{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: blueviolet;
+}
+.chorus
+{
+  font-style: italic;
+}
+.song
+{
+    font-style: oblique;
+}
